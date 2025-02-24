@@ -1,6 +1,11 @@
 Lab 4 - Creating a REST API
+
 Part 1: Establishing connections with tables
+
+
 I created entities and repositories for the following tables:
+
+
 
 Table Name	Entity Link	Repository Link
 CUSTOMER_DETAILS	CustomerDetails.java	CustomerDetailsRepository.java
